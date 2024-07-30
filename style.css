@@ -1,8 +1,24 @@
-.task{
-    height: 100px;
-    width: 100px;
-    background-color: green;
-    border-radius: 50px;
-    text-align: center;
-       
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 20px 20px 20px 20px;
+}
+span{
+    margin: 80px;
+    padding: 8px;
+}
+input{
+    padding: 3px;
+}
+button{
+    padding: 3px;
+    background-color: orange;
+    color: white;
+}
+#span1{
+    color: orange;
 }
